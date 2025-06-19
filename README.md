@@ -1,6 +1,6 @@
-Install Python
+Install Python : please refer this video for installation https://www.youtube.com/watch?v=YYXdXT2l-Gg
 
-Install Docker for desktop
+Install Docker for desktop : follow this link for installation https://docs.docker.com/desktop/
 
 create virtual environment using the command python -m venv Chatbot
 
