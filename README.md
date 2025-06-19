@@ -8,6 +8,8 @@ Install all the libraries required using the command python -m pip install -r re
 
 I have already created and added the Faiss vector db for convenience. 
 
+I have used docker container of Redis DataBase for storing Chat history. Please find the details of creating Docker Image on https://hub.docker.com/_/redis.
+
 To run the project run the command streamlit run app.py in the terminal after cloning the repo and installing all dependencies.
 
 
